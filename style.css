@@ -1,0 +1,93 @@
+*{margin:0; padding:0;}
+body{background:#F3F4F6;}
+#header_wrap{
+	margin-top:80px;
+	padding: 20px;
+	background:#FFFFFF;
+	border-radius: 27px 27px 0px 0px;
+}
+.text-right {
+    text-align: right!important;
+    margin-top: 11px;
+    font-weight: bold;
+    color: #d3d1cc;
+}
+.img-fluid {
+    max-width: 104%;
+    height: auto;
+    width: 983px;
+}
+.img_wrap{margin-left: -15px;}
+.button_edit{
+	padding: 10px;
+    width: 150px;
+    background: #FECC7B;
+    color: black;
+    border-radius: 30px;
+    margin-top: 16px;
+}
+/*.drag_left{
+	border: 1px solid #d7d5d5;
+    margin-top: 140px;
+    width: 31%;
+    margin-left: 8%;
+	}
+.writeen{margin-top: -15px;}
+.drag_rigt{
+	border: 1px solid #d7d5d5;
+    margin-top: -11px;
+    width: 31%;
+    margin-right: 8%;
+    float: right;
+	}
+	*/
+	ml-2, .mx-2 {
+    margin-left: 6.5rem!important;
+}
+.fresh_addition{
+	background:#FFFFFF;
+	width: 100%;
+}
+.content_left{
+    margin-top: 50px;
+    float: left;
+    margin-left: 5%;
+    width: 45%;
+
+}
+.content_right{
+	margin-top: 50px;
+    width: 50%;
+    float: right;
+    margin-right: -2%;
+}
+	.offer_section{
+		overflow:hidden;
+		background:white;
+	}
+.footer{
+	margin-top: 20px;
+    background: white;
+    margin-bottom: 50px;
+    border-radius: 2px 2px 50px 50px;
+
+}
+.footer_wrap{margin-top:70px;overflow:hidden}
+.footer_top { margin-top:45px;margin-left: 40%}
+.footer_top ul{
+	list-style-type:none;
+}
+.footer_top ul li{
+	float:left
+}
+.footer_bottom{margin-top:20px;margin-bottom:50px;}
+
+.drag_left{
+	
+}
+.drag_right{
+	
+}
+.writeen{
+	
+}
